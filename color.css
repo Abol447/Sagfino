@@ -1,0 +1,53 @@
+:root{
+   
+    /* Primary colors */
+
+    --shade-6: #430909;
+    --shade-5: #5A0C0C;
+    --shade-4: #700F0F;
+    --shade-3: #871212;
+    --shade-2: #9E1515;
+    --shade-1: #B41818;
+    --primery: #CB1B1B;
+    --Tint-7:  #E43434;
+    --Tint-6:  #F66262;
+    --Tint-5:  #FCA197;
+    --Tint-4:  #F6BBBB;
+    --Tint-3:  #F9D2D2;
+    --Tint-2:  #FCE8E8;
+    --Tint-1:  #FDF1F1;
+
+    /* Neutral colors */
+
+    --Black:   #0C0C0C;
+    --Gray-13: #121212;
+    --Gray-12: #212121;
+    --Gray-11: #353535;
+    --Gray-10: #505050;
+    --Gray-9:  #717171;
+    --Gray-8:  #909090;
+    --Gray-7:  #ADADAD;
+    --Gray-6:  #CBCBCB;
+    --Gray-5:  #D9D9D9;
+    --Gray-4:  #E1E1E1;
+    --Gray-3:  #EDEDED;
+    --Gray-2:  #F9F9F9;
+    --Gray-1:  #FAFAFA;
+    --White:   #FFFFFF;
+
+    /* State colors */
+
+    --Error:    #C30000;
+    --E-Light1: #ED2E2E;
+    --E-Light2: #FFF2F2;
+     
+    --Success:  #00966D;
+    --S-Light1: #00BA88;
+    --S-Light2: #F3FDFA;
+
+    --Warning:  #A9791C;
+    --W-Light1: #F4B740;
+    --W-Light2: #FFF8E1;
+
+    
+}
