@@ -1,0 +1,9 @@
+@import url("color/color.css");
+.button{
+    border: .2rem solid var(--primery);
+    padding: .5rem 1.6rem;
+    border-radius: .8rem;
+}
+.button .button__content{
+    color: red;
+}

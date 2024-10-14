@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "shabnam-bold";
+    src: url(../font/Poppins-Bold.ttf) format(truetype) ;
+}
+@font-face {
+    font-family: "shabnam-light";
+    src: url("../font/Shabnam-Light.ttf") format(truetype);
+}
+@font-face {
+    font-family: "shabnam-medium";
+    src: url("../font/Shabnam-Medium.ttf") format(truetype);
+}
+@font-face {
+    font-family: "shabnam-thin";
+    src: url("../font/Shabnam-Thin.ttf") format(truetype);
+}
